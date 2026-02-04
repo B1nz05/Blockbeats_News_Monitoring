@@ -1,14 +1,14 @@
-## BlockBeats Newsflash Monitor
+# BlockBeats Newsflash Monitor
 
 A real-time Python-based monitoring tool that tracks the latest cryptocurrency newsflashes from The BlockBeats.
 
-# Overview
+## Overview
 
 This program provides a live feed of the latest crypto market updates by polling the BlockBeats API. It is designed to run continuously, alerting you only when new articles are published, making it ideal for traders and researchers who need immediate information.
 
 This project is a product of Vibe Coding, developed with AI assistance to prioritize fast iteration, clean logic, and seamless developer experience.
 
-# Key Features
+## Key Features
 
 Real-time Monitoring: Continuously polls the official API for the latest updates.
 
@@ -29,12 +29,12 @@ Install dependencies: This project uses the requests library.
 pip install requests
 
 
-# Usage
+## Usage
 
 Simply run the script using Python: blockbeats_news_monitoring.ipynb
 
 
-# Configuration
+## Configuration
 
 You can adjust the checking frequency by modifying the interval parameter in the script:
 
@@ -42,7 +42,7 @@ Change interval to 60 seconds
 monitor = BlockBeatsMonitor(interval=60)
 
 
-# Console Output Example
+## Console Output Example
 
  🚀 BlockBeats Live Monitor Started...
  ⏰ Frequency: Once every 30 seconds
