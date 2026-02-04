@@ -1,4 +1,4 @@
-# BlockBeats Newsflash Monitor
+## BlockBeats Newsflash Monitor
 
 A real-time Python-based monitoring tool that tracks the latest cryptocurrency newsflashes from The BlockBeats.
 
