@@ -44,15 +44,14 @@ monitor = BlockBeatsMonitor(interval=60)
 
 Console Output Example
 
-🚀 BlockBeats Live Monitor Started...
-⏰ Frequency: Once every 30 seconds
+ 🚀 BlockBeats Live Monitor Started...
+ ⏰ Frequency: Once every 30 seconds
 ------------------------------------------------------------
 Initialized. Latest news ID recorded: 123456
 
-🔔 [NEW FLASH] 14:30:05
+ 🔔 [NEW FLASH] 14:30:05
 Title: Bitcoin Breaks $100k
 Summary: Bitcoin has officially reached the milestone of...
-Link: [https://www.theblockbeats.info/flash/123457](https://www.theblockbeats.info/flash/123457)
 ----------------------------------------
 
 
