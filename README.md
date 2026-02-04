@@ -1,4 +1,4 @@
-BlockBeats Newsflash Monitor
+# BlockBeats Newsflash Monitor
 
 A real-time Python-based monitoring tool that tracks the latest cryptocurrency newsflashes from The BlockBeats.
 
@@ -38,7 +38,7 @@ Configuration
 
 You can adjust the checking frequency by modifying the interval parameter in the script:
 
-# Change interval to 60 seconds
+Change interval to 60 seconds
 monitor = BlockBeatsMonitor(interval=60)
 
 
