@@ -46,13 +46,13 @@ Console Output Example
 
  🚀 BlockBeats Live Monitor Started...
  ⏰ Frequency: Once every 30 seconds
-------------------------------------------------------------
+
 Initialized. Latest news ID recorded: 123456
 
  🔔 [NEW FLASH] 14:30:05
 Title: Bitcoin Breaks $100k
 Summary: Bitcoin has officially reached the milestone of...
-----------------------------------------
+
 
 
 Contributing
